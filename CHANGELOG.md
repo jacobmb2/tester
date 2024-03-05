@@ -14,6 +14,9 @@ way to update this template, but currently, we follow a pattern:
 
 ## Upcoming version 2024-XX-XX
 
+- [add] Add support for hosted category configuration
+  [#314](https://github.com/sharetribe/web-template/pull/314)
+
 ## [v4.1.1] 2024-03-13
 
 - [fix] configDefault.js: fix Fb & twitter examples.
